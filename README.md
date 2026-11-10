@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hey, I'm Pritam Hippargekar
+
+Java Backend Developer | Microservices Architect | Cloud Enthusiast
+
+Building scalable, high-performance systems with Spring Boot • Kafka • AWS
+
 
 <!--
 **tech-pritam91/tech-pritam91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
